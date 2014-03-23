@@ -1,0 +1,4 @@
+#ignores the matching files during checkouts
+
+.*.swp
+*.class
